@@ -1,0 +1,2 @@
+# cobaLaravel
+sample crud sederhana
